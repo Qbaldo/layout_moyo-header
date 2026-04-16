@@ -19,7 +19,7 @@ body {
   justify-content: space-between;
 }
 
-.logo_img img {
+.logo_img {
   display: block;
   width: 40px;
 }
@@ -83,5 +83,5 @@ body {
 }
 
 .nav__link:hover {
-  color: #00acdc;
+  color: var(--color);
 }
